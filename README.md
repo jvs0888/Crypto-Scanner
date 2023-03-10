@@ -21,4 +21,4 @@ Password expiration can be limited
 
 ![crypto2](https://user-images.githubusercontent.com/108722623/222963811-b0ead1b1-48fb-43d8-a67c-55f124be7d31.png)
 
-To get started you need to add api keys for some crypto exchanges
+To get started you need to have api keys for some crypto exchanges
